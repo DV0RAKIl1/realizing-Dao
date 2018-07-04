@@ -1,2 +1,2 @@
 # hello-world
-嗨多磨
+Bravo! 嗨多磨!
